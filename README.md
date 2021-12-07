@@ -1,6 +1,6 @@
 ## About
 This project contains a basic layout to start a new project.
-Include:
+Includes:
 - My Own Architecture based on MVC
 - Basic Vue Components
 - Paginator Server Side
